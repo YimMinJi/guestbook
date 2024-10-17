@@ -17,3 +17,4 @@ WORKDIR $APP_HOME
 ENTRYPOINT ["java"]
 CMD ["-jar", "guestbook.jar"]
 
+
